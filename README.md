@@ -1,5 +1,7 @@
 # Olist-E-Commerce-Exploratory-Analysis
 
+---
+
 ## 📌 Project Description
 
 This project was developed as part of *Achievement 6: Advanced Analytics & Dashboard Design*. The goal was to analyze the **Olist Brazilian E-Commerce Dataset (2016–2018)** and explore factors affecting **shipping costs**, customer distribution, and logistics challenges in Brazilian e-commerce.
@@ -66,7 +68,7 @@ Data cleaning was performed in Python for each table. The main steps included:
 
 ---
 
-🛠️ Methods & Techniques
+## 🛠️ Methods & Techniques
 
 **Exploratory Analysis:** Scatterplots, correlations, descriptive statistics
 
@@ -83,6 +85,7 @@ Data cleaning was performed in Python for each table. The main steps included:
 ## 📊 Tableau Dashboard
 
 The final interactive dashboard is published here:
-👉 [https://public.tableau.com/app/profile/habibe.zare.haghighi/viz/OlistE-CommerceStoryboard/OlistE-Commerce](#)
+
+👉 [Tableat Dashboard Link](https://public.tableau.com/app/profile/habibe.zare.haghighi/viz/OlistE-CommerceStoryboard/OlistE-Commerce)
 
 ---
