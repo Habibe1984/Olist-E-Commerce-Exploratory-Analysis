@@ -66,11 +66,23 @@ Data cleaning was performed in Python for each table. The main steps included:
 
 ---
 
-## 📊 Tableau Dashboard
+🛠️ Methods & Techniques
 
-The final interactive dashboard is published here:
-👉 [Tableau Dashboard Link](#) *(replace with your link once published)*
+**Exploratory Analysis:** Scatterplots, correlations, descriptive statistics
+
+**Geospatial Analysis:** Choropleth maps of customer distribution across Brazil
+
+**Regression Analysis:** Testing linear relationships between shipping cost and weight/size
+
+**Cluster Analysis:** K-means to segment parcels into natural groups
+
+**Dashboard Design:** Curated results presented in Tableau
 
 ---
 
-Do you want me to also include a **“Limitations” section** in the README (since your project brief required it), or keep it strictly to the items you listed?
+## 📊 Tableau Dashboard
+
+The final interactive dashboard is published here:
+👉 [https://public.tableau.com/app/profile/habibe.zare.haghighi/viz/OlistE-CommerceStoryboard/OlistE-Commerce](#)
+
+---
