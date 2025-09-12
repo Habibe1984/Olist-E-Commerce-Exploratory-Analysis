@@ -1,5 +1,7 @@
 # Olist-E-Commerce-Exploratory-Analysis
 
+This repository contains all Python scripts, data cleaning steps, and exploratory analyses performed as part of Achievement 6: Advanced Analytics & Dashboard Design. The curated results are presented in an interactive Tableau dashboard.
+
 ---
 
 ## 📌 Project Description
@@ -27,6 +29,10 @@ It contains \~100,000 orders placed between 2016 and 2018 and is divided into 9 
 * **Category Translations** – product categories (Portuguese → English)
 
 These tables can be connected using `order_id`, `customer_id`, `product_id`, and `seller_id`.
+
+**Additional source:**
+
+* **Geospatial shapefile:** Brazil states boundaries for mapping customer and seller distribution
 
 ---
 
@@ -82,10 +88,34 @@ Data cleaning was performed in Python for each table. The main steps included:
 
 ---
 
+## 📈 Key Insights
+
+* **Geography:** Customers are heavily concentrated in the Southeast, especially São Paulo.
+
+* **Costs:** Weight and size are strong cost drivers but explain <40% of variation.
+
+* **Clusters:** Three parcel groups emerged (small/light, medium, large/heavy).
+
+* **Delivery times:** Similar across clusters (~23–25 days), so cost is driven mainly by product attributes, not speed.
+
+---
+
+## 🚀 Recommendations & Next Steps
+
+**Expand Regionally:** Strengthen seller presence outside the Southeast to reduce long-distance costs.
+
+**Analyze Product Categories:** Identify cost drivers by category (e.g., electronics vs. furniture).
+
+**Refine Clustering:** Test additional clusters.
+
+**Add Distance Metrics:** Incorporate delivery distance and route data for stronger models.
+
+---
+
 ## 📊 Tableau Dashboard
 
-The final interactive dashboard is published here:
+The final interactive dashboard is published here: 👉 [Tableat Dashboard Link](https://public.tableau.com/app/profile/habibe.zare.haghighi/viz/OlistE-CommerceStoryboard/OlistE-Commerce)
 
-👉 [Tableat Dashboard Link](https://public.tableau.com/app/profile/habibe.zare.haghighi/viz/OlistE-CommerceStoryboard/OlistE-Commerce)
+*Note: The dashboard includes only selected results that best tell the story of shipping costs in Brazil. Additional analyses are available in this repository.*
 
 ---
