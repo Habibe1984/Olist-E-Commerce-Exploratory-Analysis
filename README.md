@@ -114,7 +114,7 @@ Data cleaning was performed in Python for each table. The main steps included:
 
 ## 📊 Tableau Dashboard
 
-The final interactive dashboard is published here: 👉 [Tableat Dashboard Link](https://public.tableau.com/app/profile/habibe.zare.haghighi/viz/OlistE-CommerceStoryboard/OlistE-Commerce)
+The final interactive dashboard is published here: 👉 [Tableau Dashboard Link](https://public.tableau.com/app/profile/habibe.zare.haghighi/viz/OlistE-CommerceStoryboard/OlistE-Commerce)
 
 *Note: The dashboard includes only selected results that best tell the story of shipping costs in Brazil. Additional analyses are available in this repository.*
 
